@@ -13,6 +13,9 @@ This contains the output of the word count program run in Hadoop
 #### sparkwc.txt
 This is the word count file output from Spark
 
+#### logs
+Logs from Hadoop run, could not find logs to upload for the Spark run
+
 ### Commands
 ##### hdfs wordcount
 The data.txt file was imported in hdfs with the following command:
