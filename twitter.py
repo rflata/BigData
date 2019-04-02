@@ -5,10 +5,10 @@ from tweepy import Stream
 import json
 
 
-access_token = "344522875-O7RJpo9QFABSBSt8CmsHJbMPBaYlT6cGVjJvd4mW"
-access_token_secret = "KNKkUWF19nSgNbply8qkUFjqzxdKr9h5aCgDbqNyuKyo1"
-consumer_key = "zvg1cwe2ydREX66d6MgmsW4Yf"
-consumer_secret = "W6zAKtBkofutwy9eHxmpQf1MfVWilqjjqAhR00wZ1kuFIOxc5V"
+access_token = ""
+access_token_secret = ""
+consumer_key = ""
+consumer_secret = ""
 
 
 # Print out tweets
